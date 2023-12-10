@@ -61,3 +61,4 @@ validators==0.22.0
 watchdog==3.0.0
 Werkzeug==3.0.1
 wrapt==1.12.1
+setuptools==58.2.0
